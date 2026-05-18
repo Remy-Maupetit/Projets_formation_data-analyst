@@ -1,4 +1,4 @@
-# 📊 Optimisation de la gestion des données et analyses commerciales - BOTTLE NECK
+## 📊 Optimisation de la gestion des données et analyses commerciales - BOTTLE NECK
 
 Bienvenue sur la page consacrée au projet **Optimisation de la gestion des données et analyses commerciales**.
 
