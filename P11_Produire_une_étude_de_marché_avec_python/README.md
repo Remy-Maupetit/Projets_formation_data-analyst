@@ -17,13 +17,14 @@ Pour mener à bien ce projet j'ai :
 
 ## 📊 Contexte
 
-Une entreprise souhaite entrer ou se développer sur un nouveau marché. Ce projet vise à fournir une analyse de marché rigoureuse basée sur des données réelles pour supporter les décisions stratégiques.
+La Poule qui chante une entreprise française du secteur agroalimentaire  souhaite se développer sur de nouveaux marchés.
+Ce projet vise à fournir une analyse de marché rigoureuse basée sur des données réelles pour supporter les décisions stratégiques.
 
 ---
 
 ## 🎯 Objectif
 
-Produire une étude de marché complet en :
+Produire une étude de marché complète en :
 
 - Décrivant le marché et ses caractéristiques
 - Identifiant les segments de clients distincts
@@ -38,7 +39,7 @@ Produire une étude de marché complet en :
 <div style="display: flex; flex-direction: column; gap: 1rem;">
 
 ### 📊 – Notebook Jupyter 1 : Préparation et analyse exploratoire
-- Collecte et exploration des données
+- Collecte via différentes sources de données et exploration des données
 - Nettoyage et préparation des données
 - Analyse descriptive et visualisations
 - Identification des patterns et anomalies
@@ -73,9 +74,9 @@ Produire une étude de marché complet en :
 
 ## 🛠 Outils utilisés
  
-- **Pack Office** – PowerPoint pour la présentation
+- **Pack Office** – **PowerPoint** pour la présentation
 - **Notebook Jupyter** – Exploration, clustering et analyse des données en langage Python
-- **Scikit-learn** – Algorithmes de machine learning et clustering
+- **Utilisation de la librairie Python Scikit-learn** – Algorithmes de machine learning et clustering
 
 ---
 
