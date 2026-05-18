@@ -6,7 +6,7 @@ Ce projet illustre mes compétences en **analyse de données, nettoyage de donn�
 
 ## 🧩 Contexte
 
-Une entreprise souhaite fiabiliser ses données produits afin d’améliorer le suivi de ses ventes, de ses stocks et de sa rentabilité.  
+**BOTTLE NECK** souhaite fiabiliser ses données produits afin d’améliorer le suivi de ses ventes, de ses stocks et de sa rentabilité.  
 Le projet vise à identifier les anomalies, fusionner les sources de données et produire des indicateurs exploitables pour aider à la décision.
 
 ## 🎯 Objectif
@@ -85,8 +85,8 @@ Après nettoyage et fusion, seules les lignes exploitables ont été conservées
 ## 🛠 Outils utilisés
 
 - **Python** – nettoyage, traitement, analyse et visualisation.
-- **Pandas** – manipulation des données.
-- **Matplotlib / Seaborn** – visualisation.
+- **Librairie Pandas** – manipulation des données.
+- **Librairie Matplotlib / Seaborn** – visualisation.
 - **Jupyter Notebook** – documentation et exécution de l’analyse.
 
 ## 📝 Remarque
