@@ -1,8 +1,8 @@
 # 💧 Faire une étude sur l'eau potable
 
-Bienvenue sur la page consacrée au projet **Faire une étude sur l'eau potable**. 
+Bienvenue sur la page consacrée au projet **Faire une étude sur l'eau potable** menée pour l'ong **DWFA** dans le cadre d'un étdue pour déterminé la localisant des futurs projets d'aides en matière d'accès à l'eau des populations. 
 
-Ce projet illustre mes compétences en **Analyse environnementale, visualisation de données et BI** à travers une étude complète de la qualité et l'accès à l'eau potable.
+Ce projet illustre mes compétences en **Analyse environnementale, visualisation de données et BI** à travers une étude complète de la qualité de l'accès à l'eau.
 
 Pour mener à bien ce projet j'ai :
 
@@ -17,7 +17,7 @@ Pour mener à bien ce projet j'ai :
 
 ## 🌍 Contexte
 
-L'accès à l'eau potable est un enjeu majeur de développement durable. Ce projet vise à analyser les données mondiales pour mieux comprendre les défis et les progrès réalisés par différentes régions.
+L'accès à l'eau est un enjeu majeur de développement durable. Ce projet vise à analyser les données mondiales pour mieux comprendre la situations des différentes régions du monde dans le but de determiner où DWFA doit intervenir en priorité.
 
 ---
 
@@ -25,7 +25,7 @@ L'accès à l'eau potable est un enjeu majeur de développement durable. Ce proj
 
 Analyser les données d'accès à l'eau potable en :
 
-- Identifiant les régions les plus touchées par la pénurie
+- Identifiant les régions les plus en difficulté , ainsi que les régions où l'ong peut intervenir.
 - Analysant les tendances temporelles
 - Corrélant l'accès à l'eau avec autres facteurs de développement
 - Visualisant les résultats de manière impactante
@@ -40,7 +40,7 @@ Analyser les données d'accès à l'eau potable en :
 ### 🎤 – Présentation des résultats (PDF)
 - Récapitulatif de l'étude et contexte
 - Visualisations clés des tendances et disparités
-- Analyses régionales
+- Analyses mondiales
 - Recommandations pour les actions de progrès
 
   [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/raw/main/P10_Faire_une_etude_sur_eau_potable/Maupetit_Rémy_1_presentation_11_2025.pdf)
@@ -51,7 +51,7 @@ Analyser les données d'accès à l'eau potable en :
 - Visualisations interactives et dynamiques
 - Cartes géographiques d'accès à l'eau
 - Tendances temporelles et comparaisons
-- Indicateurs clés et métriques
+- Indicateurs clés et métriques (Utilisant de mesure avec DAX)
 - Drill-down par région/pays
   
   [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/blob/main/P10_Faire_une_etude_sur_eau_potable/Maupetit_Rémy_2_dashboard_11_2025.pbix)
@@ -60,11 +60,11 @@ Analyser les données d'accès à l'eau potable en :
 
 ## 🛠 Outils utilisés
  
-- **Pack Office** – PowerPoint pour la présentation
+- **Pack Office** – **PowerPoint** pour la présentation
 - **Power BI** – Création des visualisations et du tableau de bord interactif
 
 ---
 
 ## 📝 Remarque
 
-Ce projet a été conçu pour illustrer mes compétences dans un contexte professionnel réel, en combinant **analyse de données environnementales, visualisation impactante et business intelligence**.
+Ce projet a été conçu pour illustrer mes compétences dans un contexte professionnel réel, en combinant **analyse de données, visualisation impactante et business intelligence**.
