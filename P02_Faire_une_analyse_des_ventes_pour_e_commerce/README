@@ -1,1 +1,34 @@
+# 🏥 Réaliser une analyse des ventes pour une entreprise de ecommerce - **Le Grand Marché **
 
+Bienvenue sur la page consacrée au projet **Réaliser une étude de santé publique avec python**. 
+
+Ce projet illustre mes compétences en **Analyse exploratoire de données et visualisation de données** à travers une étude réelle d'indicateurs de santé publique.
+
+Pour mener à bien ce projet j'ai :
+
+* Exploré et visualisé les données avec Python
+* Calculé les indicateurs clés de santé publique
+* Présenté clairement les analyses et les indicateurs.
+
+---
+
+## 📊 Contexte
+
+L'organisation des nations unies pour l'alimentation et l'agriculture **(FAO)** cherche à mieux comprendre les déterminants de la situation alimentaire des populations à travers une analyse comparative des pays. Ce projet vise à analyser les données en terme de sous-nutrition, d'aide alimentaire, de production alimentaire et de composition  des populations des différents pays du monde pour identifier les patterns et les facteurs influençant le phénomène de sous-nutrition au niveau mondial.
+
+---
+
+## 🎯 Objectif
+
+Analyser un dataset d'indicateurs de santé publique pour :
+
+- Identifier les variables les plus pertinentes
+- Analyser les disparités entre pays et les continents
+- Proposer des indicateurs pertinents
+- Visualiser les résultats de manière claire et compréhensible
+
+---
+
+## 📁 Contenu du répertoire
+
+<div style="display: flex; flex-direction: column; gap: 1rem;">
