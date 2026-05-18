@@ -96,4 +96,4 @@ Mettre en avant mes compétences :
 
 ## 📌 Remarque
 
-Ce projet a été conçu pour illustrer mes compétences dans un contexte professionnel réel, en combinant **analyse de données, gestion de projet et communication visuelle**.
+Ce projet a été conçu pour illustrer mes compétences dans un contexte professionnel réel, en combinant **analyse de données, gestion de projet et communication via des supports (pas à pas , Tutoriel vidéo)**.
