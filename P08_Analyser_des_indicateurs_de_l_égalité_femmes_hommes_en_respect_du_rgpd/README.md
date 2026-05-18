@@ -56,7 +56,7 @@ Analyser les indicateurs d'égalité femmes-hommes en :
 
 ---
 
-### 🎤 – Support de présentation (PDF) - Version 1
+### 🎤 – Support de présentation (PDF)
 - Récapitulatif de la démarche et les résultats
 - Visualisations des indicateurs clés
 - Recommandations pour les actions de progrès
