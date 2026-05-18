@@ -17,7 +17,7 @@ Pour mener à bien ce projet j'ai :
 
 ## 📖 Contexte
 
-Une librairie indépendante souhaite mieux comprendre sa clientèle et ses patterns de ventes pour optimiser son offre commerciale et ses stratégies marketing. Le projet vise à fournir une analyse approfondie basée sur des données réelles.
+La librairie Lapage souhaite mieux comprendre sa clientèle et ses patterns de ventes pour optimiser son offre commerciale et ses stratégies marketing. Le projet vise à fournir une analyse approfondie basée sur des données réelles.
 
 ---
 
