@@ -17,7 +17,7 @@ Pour mener à bien ce projet j'ai :
 
 ## 🏢 Contexte
 
-Une entreprise immobilière souhaite moderniser la gestion de son portefeuille de propriétés en utilisant une base de données SQL. Le projet vise à créer une architecture de données robuste et performante pour stocker et analyser les informations immobilières.
+L'entreprise Laplace Immo souhaite moderniser la gestion de son portefeuille de propriétés en utilisant une base de données SQL. Le projet vise à créer une architecture de données robuste et performante pour stocker et analyser les informations immobilières.
 
 ---
 
@@ -61,11 +61,11 @@ Créer et exploiter une base de données immobilière permettant de :
 
 ## 🛠 Outils utilisés
  
-- **Pack Office** – Excel pour le dictionnaire de données et PowerPoint pour la présentation
-- **SQL** – Création et requêtes de base de données
-
+- **Pack Office** – **Excel** pour le dictionnaire de données et **PowerPoint** pour la présentation
+- **SQLite Studio** – Création et requêtes de base de données
+- **SQLPowerArchitect** - Création du shéma relationelle de la BDD et du code SQL permettant de structurer la badse de donnée ( Création des Tables, Colonnes, Clé Primaires et Etrangères) 
 ---
 
 ## 📝 Remarque
 
-Ce projet a été conçu pour illustrer mes compétences dans un contexte professionnel réel, en combinant **conception de base de données, maîtrise du SQL et communication technique**.
+Ce projet a été conçu pour illustrer mes compétences dans un contexte professionnel réel, en combinant **conception de base de données, maîtrise du langage  SQL et communication technique**.
