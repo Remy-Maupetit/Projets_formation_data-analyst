@@ -2,13 +2,13 @@
 
 Bienvenue sur la page consacrée au projet **Analyser des indicateurs de l'égalité femmes-hommes en respect du RGPD**. 
 
-Ce projet illustre mes compétences en **Analyse de données, respect de la conformité RGPD et use de outils no-code** à travers l'analyse d'indicateurs RH sensibles.
+Ce projet illustre mes compétences en **Analyse de données, respect de la conformité RGPD et utilisation d' outils no-code** à travers l'analyse d'indicateurs RH sensibles.
 
 Pour mener à bien ce projet j'ai :
 
 * Analysé les indicateurs d'égalité professionnelle
 * Respecté scrupuleusement les contraintes du RGPD
-* Créé un workflow d'analyse automatisé avec KNIME
+* Créé un workflow d'analyse automatisé avec **KNIME**
 * Généré des rapports conformes et exploitables
 * Anonymisé et sécurisé les données sensibles
 * Présenté les résultats de manière claire et responsable
@@ -77,7 +77,7 @@ Analyser les indicateurs d'égalité femmes-hommes en :
 ## 🛠 Outils utilisés
  
 - **KNIME** – Création du workflow d'analyse automatisée
-- **Pack Office** – Gestion des données et présentations
+- **Pack Office** – **PowerPoint** Gestion des données et présentations
 
 ---
 
