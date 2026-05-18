@@ -58,20 +58,20 @@ Analyser les ventes de la librairie en :
 
 ---
 
-### 🎤 – Présentation des résultats (PowerPoint)
+### 🎤 – Présentation des résultats (PDF)
 
 - Diapositive récapitulant l'analyse et les conclusions
 - Visualisations clés des ventes et tendances
 - Insights détaillés et insights métier
 - Recommandations pour l'optimisation commerciale
   
-  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/raw/main/P09_Analyser_les_ventes_d_une_librairie_avec_python/Maupetit_Remy_3_support_102025.pptx)
+  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/raw/main/P09_Analyser_les_ventes_d_une_librairie_avec_python/Maupetit_Remy_3_support_102025.pdf)
 
 ---
 
 ## 🛠 Outils utilisés
  
-- **Pack Office** – PowerPoint pour la présentation
+- **Pack Office** – **PowerPoint** pour la présentation
 - **Notebook Jupyter** – Exploration et analyse des données en langage Python
 
 ---
