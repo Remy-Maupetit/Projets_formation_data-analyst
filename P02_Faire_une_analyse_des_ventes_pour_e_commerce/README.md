@@ -44,29 +44,18 @@ L'entreprise **Le Grand Marché** spécialisé dans le Ecommerce souhaite avoir 
   
 ---
 
-### 📄 – Notebook en PDF
-- Visualisation du Notebook comprennant l'ensemble des analyses au format PDF
+### 📄 – Etude et tableau de bord concernant les clients affiliés
+- Compléter un tableau de bord Excel concernant les ventes réalisées auprès des clients affiliés de l'entreprise
+- Compléter et afficher les résultats sur différents visuels au formet Excel 
   
-  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/raw/main/P04_Réaliser_une_étude_de_santé_publique_avec_python/Maupetit_Remy_2_Notebook_pdf_052025.pdf)
+  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/blob/main/P02_Faire_une_analyse_des_ventes_pour_e_commerce/Maupetit_R%C3%A9my_2_clients_affilies_032025.xlsx)
 
----
-
-### 🎤 – Présentation des résultats (PDF)
-
-- Présentation récapitulant les résultats principaux à travers :
-- Présentation d'indicateurs clés
-- La visualisation de la situation des pays en fonction des problématique
-- Point sur la production de Manioc en Thailande
-- Présentation de la situation du continent Africain nottament en matière de sous-nutrition des populations.
-  
-  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/raw/main/P04_Réaliser_une_étude_de_santé_publique_avec_python/Maupetit_Remy_3_presentation_052025.pdf)
 
 ---
 
 ## 🛠 Outils utilisés
  
 - **Pack Office** – Excel, Powerpoint
-- **Notebook Jupyter** – Exploration des données et réalisant des travaux en langage Python
 
 ---
 
