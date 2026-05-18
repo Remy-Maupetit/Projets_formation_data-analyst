@@ -40,7 +40,7 @@ L'entreprise **Le Grand Marché** spécialisé dans le Ecommerce souhaite avoir 
 - Analyse descriptive des résultats
 - Propositions d'axes d'améliorations
 
-  [Voir le document](P02_Faire_une_analyse_des_ventes_pour_e_commerce/Maupetit_Rémy_1_rapport_mensuel_032025.pdf)
+  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/blob/main/P02_Faire_une_analyse_des_ventes_pour_e_commerce/Maupetit_R%C3%A9my_1_rapport_mensuel_032025.pdf)
   
 ---
 
