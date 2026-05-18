@@ -54,7 +54,7 @@ Analyser les données d'accès à l'eau potable en :
 - Indicateurs clés et métriques (Utilisant de mesure avec DAX)
 - Drill-down par région/pays
   
-  [Voir le document](https://https://app.powerbi.com/groups/me/reports/63fbb445-4ce0-44ed-9928-8708434244fa/ede2c21bb80076bdfc3c?experience=power-bi)
+  [Voir le document](https://app.powerbi.com/groups/me/reports/63fbb445-4ce0-44ed-9928-8708434244fa/ede2c21bb80076bdfc3c?experience=power-bi)
 
 ---
 
