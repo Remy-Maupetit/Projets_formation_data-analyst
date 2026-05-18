@@ -68,7 +68,7 @@ Produire une étude de marché complète en :
 - Profils détaillés de chaque segment
 - Recommandations stratégiques et de positionnement
   
-  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/raw/main/P11_Produire_une_étude_de_marché_avec_python/Maupetit_Rémy_1_presentation_11_2025.pdf)
+  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/raw/main/P11_Produire_une_étude_de_marché_avec_python/Maupetit_Rémy_1_presentation_12_2025.pdf)
 
 ---
 
