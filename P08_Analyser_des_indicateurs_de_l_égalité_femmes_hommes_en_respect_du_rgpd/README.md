@@ -65,15 +65,6 @@ Analyser les indicateurs d'égalité femmes-hommes en :
 
 ---
 
-### 🎤 – Support de présentation (PDF) - Version 2
-- Présentation approfondie de l'analyse
-- Tableau de bord des indicateurs
-- Détail des conclusions
-  
-  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/raw/main/P08_Analyser_des_indicateurs_de_l_égalité_femmes_hommes_en_respect_du_rgpd/Maupetit_Remy_3_support_102025.pdf)
-
----
-
 ## 🛠 Outils utilisés
  
 - **KNIME** – Création du workflow d'analyse automatisée
