@@ -50,7 +50,7 @@ Créer et exploiter une base de données immobilière permettant de :
 
 ### 🎤 – Support de présentation (PDF)
 - Diapositives présentant l'architecture de la base de données
-- Schéma entité-association (EA)
+- Schéma relationnel normalisé
 - Requêtes SQL principales et leur utilité
 - Résultats des analyses effectuées
 - Recommandations pour l'utilisation
